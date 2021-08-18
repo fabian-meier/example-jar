@@ -1,4 +1,4 @@
-package de.beispiel
+package de.beispiel;
 
 /**
  * Beispiel-Main
